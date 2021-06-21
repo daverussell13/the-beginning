@@ -10,5 +10,5 @@ http://nannocantik.rf.gd
 - alexander errent  
 - geraldo kenzhi  
   
-karena website untuk iseng ke temen nama untuk register/sign-up cuma bisa di isi 2 itu
+karena website untuk iseng ke temen nama untuk register/sign-up cuma bisa di isi 2 itu  
 agak cringe tapi yaudah lah ya
