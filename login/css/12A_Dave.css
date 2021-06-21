@@ -1,0 +1,186 @@
+@font-face {
+    font-family: Roboto;
+    src: url("../assets/Roboto-Regular.ttf");
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Roboto;
+}
+
+body {
+    min-height: 100vh;
+    min-width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    background-image: url("../assets/background.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.container {
+    min-height: 700px;
+    min-width: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    background-color: rgba(133, 133, 133, .5);
+}
+
+.login {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: block;
+    flex-direction: column;
+}
+
+h1 {
+    text-align: center;
+}
+
+.tulisan_login {
+    margin-top: 10px;
+    font-size: 3.8rem;
+    color: white;
+    margin-bottom: 46px;
+}
+
+
+#username, #password, #umur {
+    margin: 30px;
+    display: block;
+    border: none;
+    font-size: 2.5rem;
+    border-bottom: 2px solid #181818;
+    background-color: transparent;
+    outline: none;
+    position: relative;
+    padding: 3px;
+    color: white;
+}
+
+label {
+    display: none;
+}
+
+button[name=login], button[name=daftar] {
+    display: block;
+    margin: 40px auto 0;
+    width: 250px;
+    height: 70px;
+    outline: none;
+    border-radius: 5px;
+    font-size: 1.8rem;
+    letter-spacing: 2px;
+    font-weight: bold;
+    background-color: rgb(118, 118, 118);
+    border: 2px solid #4caf50;
+    cursor: pointer;
+}
+
+input[value=Login]:active {
+    background-color: rgb(55, 55, 55);
+}
+
+input::placeholder {
+    color: rgba(255, 255, 255, .5);
+}
+
+@keyframes ubahBentuk {
+    100% {
+        width: 70px;
+        font-size: 0px;
+        border-radius: 35px;
+        border-left-color: transparent;
+        background-color: transparent;
+    }
+}
+
+@keyframes rotate {
+    0% {
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes balikNormal {
+    100% {
+        width: 250px;
+        font-size: 1.8rem;
+        border-radius: 5px;
+        border: 2px solid #4caf50;
+    }
+}
+
+.hidden {
+    display: none;
+}
+
+.link {
+    margin-top: 68px;
+}
+
+.link a{
+    font-size: 2rem;
+    color: #4caf50;
+}
+
+.login .errLogin {
+    font-style: italic;
+    color: red;
+    font-size: 30px;
+    margin-left:20px;
+}
+
+@media screen and (orientation:landscape) {
+    .login .errLogin {
+        font-size: 15px;
+    }
+    .container {
+        min-width: 320px;
+        min-height: 380px;
+    }
+    button[name=login], button[name=daftar] {
+        margin: 30px auto 0;
+        width: 150px;
+        height: 40px;
+        font-size: 1rem;
+    }
+    .tulisan_login {
+        font-size: 2rem;
+        margin-bottom: 10px;
+    }
+    #username, #password, #umur, #email {
+        margin: 20px;
+        font-size: 1.25rem;
+    }
+    .link {
+        margin-top: 0px;
+    }
+    .link a{
+        font-size: 1rem;
+    }
+    @keyframes ubahBentuk {
+        100% {
+            width: 40px;
+            border-radius: 20px;
+            font-size: 0px;
+            border-left-color: transparent;
+            background-color: transparent;
+        }
+    }
+    @keyframes balikNormal {
+        100% {
+            width: 150px;
+            font-size: 1rem;
+            border-radius: 5px;
+            border: 2px solid #4caf50;
+        }
+    }
+}
