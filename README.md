@@ -11,4 +11,6 @@ http://nannocantik.rf.gd
 - geraldo kenzhi  
   
 karena website untuk iseng ke temen nama untuk register/sign-up cuma bisa di isi 2 itu  
-agak cringe tapi yaudah lah ya
+agak cringe tapi yaudah lah ya  
+  
+Load Background Image pertama kali lama karena img sizenya kegedean..
