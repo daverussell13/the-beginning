@@ -1,9 +1,10 @@
 # Coba-hosting
 - web iseng untuk teman  
 - nyoba web hosting gratis
+- nyoba masang ssl certificate gratis
 
 # URL
-http://nannocantik.rf.gd  
+https://nannocantik.rf.gd
 (kalau gbs artinya dah gak active)
 
 # Avail Name (login)
