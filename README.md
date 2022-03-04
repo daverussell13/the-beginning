@@ -4,7 +4,7 @@
 - nyoba masang ssl certificate gratis
 
 # URL
-https://nannocantik.rf.gd
+http://nannocantik.rf.gd
 (kalau gbs artinya dah gak active)
 
 # Avail Name (login)
