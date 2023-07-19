@@ -9,7 +9,7 @@ This is the first project where I started my web development journey.
 http://nannocantik.rf.gd
 
 # Available username for login
-There are only two usernames that you can use, which are my friend's name lol \
+There are only two usernames that you can use, which are my friend's name lol
 - alexander errent  
 - geraldo kenzhi
   
