@@ -1,17 +1,16 @@
-# Coba-hosting
-- web iseng untuk teman  
-- nyoba web hosting gratis
-- nyoba masang ssl certificate gratis
+This is the first project where I started my web development journey.
 
-# URL
+# Web intention
+- Exploring html, css, js, and php
+- Learn to develop a website and utilize free hosting services.
+- Flexing my website to my friends.
+
+# Website URL
 http://nannocantik.rf.gd
-(kalau gbs artinya dah gak active)
 
-# Avail Name (login)
+# Available username for login
+There are only two usernames that you can use, which are my friend's name lol \
 - alexander errent  
-- geraldo kenzhi  
+- geraldo kenzhi
   
-karena website untuk iseng ke temen nama untuk register/sign-up cuma bisa di isi 2 itu  
-agak cringe tapi yaudah lah ya  
-  
-Load Background Image pertama kali lama karena img sizenya kegedean..
+The size of the background image is quite large, so please be patient until the image is loaded and stored in your browser cache.
